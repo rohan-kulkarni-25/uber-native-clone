@@ -17,7 +17,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.rohan-kulkarni-25.uber-native-clone"
     },
     "android": {
       "adaptiveIcon": {
